@@ -1,0 +1,28 @@
+{
+  "name": "ui_",
+  "version": "1.0.0",
+  "description": "basic ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/essxiv.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "greg hasenauer",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/github.com/essxiv/issues"
+  },
+  "homepage": "https://github.com/github.com/essxiv#readme",
+  "dependencies": {
+    "babel": "^6.5.2",
+    "browserify": "^13.1.0",
+    "react": "^15.3.2",
+    "typescript": "^2.0.3"
+  }
+}
